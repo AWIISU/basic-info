@@ -2,4 +2,4 @@
 General stuff
 contains the .py files from the lab jam
 
-other general stuff here
+other general stuff here, score sheet
